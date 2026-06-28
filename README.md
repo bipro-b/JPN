@@ -1,8 +1,3 @@
-# Therap (BD) Ltd — DevOps Written Exam Prep Sheet
-
-**Exam:** Thursday, July 2, 2026 · 10:00 AM · Banani, Dhaka
-**Candidate:** Biprodas Barai
-**Prep window:** 4 days
 
 ---
 
